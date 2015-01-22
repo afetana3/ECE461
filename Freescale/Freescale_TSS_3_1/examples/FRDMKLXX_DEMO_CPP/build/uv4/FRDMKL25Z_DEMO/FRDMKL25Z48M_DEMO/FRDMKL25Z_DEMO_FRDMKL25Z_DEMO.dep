@@ -1,0 +1,289 @@
+Dependencies for Project 'FRDMKL25Z_DEMO', Target 'FRDMKL25Z_DEMO': (DO NOT MODIFY !)
+F (..\..\..\src\mcu_init\common\io.h)(0x5182715C)()
+F (..\..\..\src\mcu_init\common\io.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\io.o --omf_browse .\frdmkl25z48m_demo\io.crf --depend .\frdmkl25z48m_demo\io.d)
+I (..\..\..\src\mcu_init\common\common.h)(0x51C8AB7A)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+I (..\..\..\src\mcu_init\common\assert.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\io.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\startup.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\drivers\uart\uart.h)(0x51C8AB7A)
+F (..\..\..\src\mcu_init\common\common.h)(0x51C8AB7A)()
+F (..\..\..\src\mcu_init\common\assert.h)(0x5182715C)()
+F (..\..\..\src\mcu_init\common\assert.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\assert.o --omf_browse .\frdmkl25z48m_demo\assert.crf --depend .\frdmkl25z48m_demo\assert.d)
+I (..\..\..\src\mcu_init\common\common.h)(0x51C8AB7A)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+I (..\..\..\src\mcu_init\common\assert.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\io.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\startup.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5476A9D0)
+F (..\..\..\src\mcu_init\cpu\arm_cm0.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\arm_cm0.o --omf_browse .\frdmkl25z48m_demo\arm_cm0.crf --depend .\frdmkl25z48m_demo\arm_cm0.d)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+F (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)()
+F (..\..\..\src\mcu_init\cpu\sysinit.h)(0x5182715C)()
+F (..\..\..\src\mcu_init\drivers\uart\uart.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\uart.o --omf_browse .\frdmkl25z48m_demo\uart.crf --depend .\frdmkl25z48m_demo\uart.d)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\uart\uart.h)(0x51C8AB7A)
+F (..\..\..\src\mcu_init\drivers\uart\uart.h)(0x51C8AB7A)()
+F (..\..\..\src\mcu_init\drivers\wdog\wdog.h)(0x5182715C)()
+F (..\..\..\src\mcu_init\cpu\sysinit_kl25.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\sysinit_kl25.o --omf_browse .\frdmkl25z48m_demo\sysinit_kl25.crf --depend .\frdmkl25z48m_demo\sysinit_kl25.d)
+I (..\..\..\src\mcu_init\common\common.h)(0x51C8AB7A)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+I (..\..\..\src\mcu_init\common\assert.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\io.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\startup.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\sysinit.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\uart\uart.h)(0x51C8AB7A)
+F (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\mcg_kl25.o --omf_browse .\frdmkl25z48m_demo\mcg_kl25.crf --depend .\frdmkl25z48m_demo\mcg_kl25.d)
+I (..\..\..\src\mcu_init\common\common.h)(0x51C8AB7A)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+I (..\..\..\src\mcu_init\common\assert.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\io.h)(0x5182715C)
+I (..\..\..\src\mcu_init\common\startup.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5476A9D0)
+F (..\..\..\src\mcu_init\drivers\wdog\wdog_kl25.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\wdog_kl25.o --omf_browse .\frdmkl25z48m_demo\wdog_kl25.crf --depend .\frdmkl25z48m_demo\wdog_kl25.d)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\wdog\wdog.h)(0x5182715C)
+F (..\..\..\src\mcu_init\drivers\mcg\mcg_kl25.h)(0x5182715C)()
+F (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)()
+F (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)()
+F (..\..\..\..\..\LIB\shared\TSS_Freemaster.c)(0x51F64E2E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_freemaster.o --omf_browse .\frdmkl25z48m_demo\tss_freemaster.crf --depend .\frdmkl25z48m_demo\tss_freemaster.d)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+F (..\..\..\..\..\LIB\shared\TSS_GPIO.h)(0x5148CE2A)()
+F (..\..\..\..\..\LIB\shared\TSS_Sensor.c)(0x514B363E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_sensor.o --omf_browse .\frdmkl25z48m_demo\tss_sensor.crf --depend .\frdmkl25z48m_demo\tss_sensor.d)
+I (..\..\..\..\..\LIB\shared\TSS_SensorGPIO.h)(0x51FFD79A)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (..\..\..\..\..\LIB\shared\TSS_SensorTSI.h)(0x51AF1778)
+I (..\..\..\..\..\LIB\shared\TSS_SensorTSIL.h)(0x51F64E2E)
+F (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)()
+F (..\..\..\..\..\LIB\shared\TSS_SensorGPIO.c)(0x51FFD79A)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_sensorgpio.o --omf_browse .\frdmkl25z48m_demo\tss_sensorgpio.crf --depend .\frdmkl25z48m_demo\tss_sensorgpio.d)
+I (..\..\..\..\..\LIB\shared\TSS_SensorGPIO.h)(0x51FFD79A)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+F (..\..\..\..\..\LIB\shared\TSS_SensorGPIO.h)(0x51FFD79A)()
+F (..\..\..\..\..\LIB\shared\TSS_SensorTSI.c)(0x51F6B81E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_sensortsi.o --omf_browse .\frdmkl25z48m_demo\tss_sensortsi.crf --depend .\frdmkl25z48m_demo\tss_sensortsi.d)
+I (..\..\..\..\..\LIB\shared\TSS_SensorTSI.h)(0x51AF1778)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+F (..\..\..\..\..\LIB\shared\TSS_SensorTSI.h)(0x51AF1778)()
+F (..\..\..\..\..\LIB\shared\TSS_SensorTSIL.c)(0x51F64E2E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_sensortsil.o --omf_browse .\frdmkl25z48m_demo\tss_sensortsil.crf --depend .\frdmkl25z48m_demo\tss_sensortsil.d)
+I (..\..\..\..\..\LIB\shared\TSS_SensorTSIL.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (..\..\..\..\..\LIB\shared\TSS_SensorTSIL_def.h)(0x51C9E7E0)
+F (..\..\..\..\..\LIB\shared\TSS_SensorTSIL.h)(0x51F64E2E)()
+F (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)()
+F (..\..\..\..\..\LIB\shared\TSS_SystemSetupData.c)(0x520CF076)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_systemsetupdata.o --omf_browse .\frdmkl25z48m_demo\tss_systemsetupdata.crf --depend .\frdmkl25z48m_demo\tss_systemsetupdata.d)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\shared\TSS_SystemSetupVal.h)(0x51F64E2E)
+F (..\..\..\..\..\LIB\shared\TSS_SystemSetupVal.h)(0x51F64E2E)()
+F (..\..\..\..\..\LIB\shared\TSS_Timer.h)(0x51F64E2E)()
+F (..\..\..\..\..\LIB\lib_uv4\TSS_KXX_M0.lib)(0x520E17C4)()
+F (..\..\..\src\main.h)(0x51C8AB7A)()
+F (..\..\..\src\main.cpp)(0x51C8AB7A)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\main.o --omf_browse .\frdmkl25z48m_demo\main.crf --depend .\frdmkl25z48m_demo\main.d)
+I (..\..\..\src\main.h)(0x51C8AB7A)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+F (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)()
+F (..\..\..\src\frdmkl25z48m\isr.h)(0x518BEC48)()
+F (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)()
+F (..\..\..\src\twrkl25z48m\derivative.h)(0x00000000)()
+F (..\..\..\src\twrkl25z48m\MKL25Z4.h)(0x00000000)()
+F (.\startup_MKL25Z4.s)(0x5182715C)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis--pd "__UVISION_VERSION SETA 513"--list .\frdmkl25z48m_demo\startup_mkl25z4.lst --xref -o .\frdmkl25z48m_demo\startup_mkl25z4.o --depend .\frdmkl25z48m_demo\startup_mkl25z4.d)
+F (.\system_MKL25Z4.c)(0x5182715C)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\system_mkl25z4.o --omf_browse .\frdmkl25z48m_demo\system_mkl25z4.crf --depend .\frdmkl25z48m_demo\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\drivers\wdog\wdog.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\sysinit.h)(0x5182715C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp.o --omf_browse .\frdmkl25z48m_demo\tss_cpp.crf --depend .\frdmkl25z48m_demo\tss_cpp.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)()
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_arotary.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_arotary.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_arotary.crf --depend .\frdmkl25z48m_demo\tss_cpp_arotary.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_aslider.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_aslider.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_aslider.crf --depend .\frdmkl25z48m_demo\tss_cpp_aslider.d)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)()
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_keypad.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_keypad.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_keypad.crf --depend .\frdmkl25z48m_demo\tss_cpp_keypad.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_matrix.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_matrix.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_matrix.crf --depend .\frdmkl25z48m_demo\tss_cpp_matrix.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_rotary.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_rotary.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_rotary.crf --depend .\frdmkl25z48m_demo\tss_cpp_rotary.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_slider.cpp)(0x51FFD78C)(--cpp -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\tss_cpp_slider.o --omf_browse .\frdmkl25z48m_demo\tss_cpp_slider.crf --depend .\frdmkl25z48m_demo\tss_cpp_slider.d)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp.h)(0x51FFD78C)
+I (..\..\..\..\..\LIB\shared\TSS_DataTypes.h)(0x520CF056)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\..\..\LIB\shared\TSS_API.h)(0x51F64E2C)
+I (..\..\..\src\frdmkl25z48m\TSS_SystemSetup.h)(0x51BF50BA)
+I (..\..\..\src\TSS_SystemSetupGlobal.h)(0x521645DE)
+I (..\..\..\..\..\LIB\shared\TSS_StatusCodes.h)(0x51F64E2E)
+I (..\..\..\..\..\LIB\shared\TSS_Sensor.h)(0x520A6420)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+I (..\..\..\..\..\LIB\wrapper_cpp\TSS_cpp_const.h)(0x51FFD78C)
+F (..\..\..\src\frdmkl25z48m\board.c)(0x51C8AB7A)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections -I..\..\..\src -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\drivers\uart -I..\..\..\src\mcu_init\drivers\wdog -I..\..\..\src\module_id -I..\..\..\src\frdmkl25z48m -I..\..\..\..\..\GUI\source\src_common -I..\..\..\..\..\GUI\source\src_platforms\Kxx -I..\..\..\..\..\LIB\shared -I..\..\..\..\..\LIB\lib_uv4 -I..\..\..\src\mcu_init\common -I..\..\..\src\mcu_init\cpu -I..\..\..\src\mcu_init\platforms -I..\..\..\src\mcu_init\drivers\mcg -I..\..\..\..\..\LIB\wrapper_cpp --diag_suppress=368-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Freescale\Kinetis-D__UVISION_VERSION="513" -DFREEDOM -DFRDM_KL25Z48-o .\frdmkl25z48m_demo\board.o --omf_browse .\frdmkl25z48m_demo\board.crf --depend .\frdmkl25z48m_demo\board.d)
+I (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)
+I (..\..\..\src\frdmkl25z48m\derivative.h)(0x5182715C)
+I (..\..\..\src\frdmkl25z48m\MKL25Z4.h)(0x5182715C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (..\..\..\src\mcu_init\cpu\arm_cm0.h)(0x5182715C)
+F (..\..\..\src\frdmkl25z48m\board.h)(0x518BEC48)()
